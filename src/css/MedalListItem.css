@@ -1,0 +1,10 @@
+.medal-header {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    display: block;
+}
+
+.medal-header span {
+    margin: 0 0 15px 10px;
+}

@@ -1,0 +1,9 @@
+h1 {
+    width: 100%;
+    text-align: center;
+    border-bottom: solid 2px black;
+}
+
+h1 span {
+    margin: 0 0 20px 5px;
+}

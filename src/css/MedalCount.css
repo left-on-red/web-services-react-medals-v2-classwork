@@ -1,0 +1,27 @@
+.medal-count-outer {
+    display: inline-block;
+    text-align: center;
+    width: 33%;
+    margin: 0 0 10px 0;
+}
+
+.medal-count-outer svg {
+    display: inline-block;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+.medal-count-inner {
+    width: 40px;
+    height: 40px;
+    background-color: #ffd900;
+    border-radius: 25px;
+    text-align: center;
+    display: inline-block;
+}
+
+.medal-count-inner p {
+    display: inline-block;
+    margin: 8px 0 0 0;
+    padding: 0;
+}
